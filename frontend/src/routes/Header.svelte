@@ -5,5 +5,6 @@
 <h1>Imageboard</h1>
 
 <a href="/">image-board</a>
+<a href="/settings">Settings</a>
 
 <br>

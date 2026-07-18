@@ -1,15 +1,15 @@
 <script lang="ts">
-    let name: string = $state('Sorted');
+  let { user } = $props();
 
-    let status: 'LOGGED IN' | 'LOGGED OUT' = $state('LOGGED OUT');
+  let status: "LOGGED IN" | "LOGGED OUT" = $state("LOGGED OUT");
 
-    function account() {
-        status = status === "LOGGED IN" ? "LOGGED OUT" :"LOGGED IN";
-    }
+  function account() {
+    status = status === "LOGGED IN" ? "LOGGED OUT" : "LOGGED IN";
+  }
 </script>
 
-<p>Hi {name}</p>
+<p>Hi {user.username}</p>
 
-<input type="text" bind:value={name} />
+<input type="text" bind:value={user.username} />
 
 <button onclick={account}>{status}</button>

@@ -1,0 +1,75 @@
+[
+    {
+        "id": 1,
+        "path": "photo-1.svg",
+        "tags": [
+            "yellow"
+        ],
+        "favorites": 12
+    },
+    {
+        "id": 2,
+        "path": "photo-2.svg",
+        "tags": [
+            "lime"
+        ],
+        "favorites": 5
+    },
+    {
+        "id": 3,
+        "path": "photo-3.svg",
+        "tags": [
+            "green"
+        ],
+        "favorites": 8
+    },
+    {
+        "id": 4,
+        "path": "photo-4.svg",
+        "tags": [
+            "teal"
+        ],
+        "favorites": 3
+    },
+    {
+        "id": 5,
+        "path": "photo-5.svg",
+        "tags": [
+            "blue"
+        ],
+        "favorites": 1
+    },
+    {
+        "id": 6,
+        "path": "photo-6.svg",
+        "tags": [
+            "indigo"
+        ],
+        "favorites": 2
+    },
+    {
+        "id": 7,
+        "path": "photo-7.svg",
+        "tags": [
+            "purple"
+        ],
+        "favorites": 4
+    },
+    {
+        "id": 8,
+        "path": "photo-8.svg",
+        "tags": [
+            "pink"
+        ],
+        "favorites": 6
+    },
+    {
+        "id": 9,
+        "path": "photo-9.svg",
+        "tags": [
+            "red"
+        ],
+        "favorites": 7
+    }
+
+]
